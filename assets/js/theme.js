@@ -4,6 +4,11 @@ const siteAccentColor = "#58add8";
 const siteAccentHoverColor = "#7cc6e8";
 const siteAccentTextColor = "#111820";
 const siteStyleOverrides = `
+.toggle-container,
+#light-toggle {
+  display: none !important;
+}
+
 .cv ul.list-group,
 .cv ul.card-text {
   list-style: none !important;
