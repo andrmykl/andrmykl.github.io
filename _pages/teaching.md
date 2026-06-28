@@ -2,14 +2,17 @@
 layout: page
 permalink: /teaching/
 title: teaching
-description: Course materials, schedules, and resources for classes taught.
-nav: true
+description: Materials for courses you taught. Replace this text with your description.
+nav: false
 nav_order: 6
-calendar: true
 ---
 
-This page displays a collection of courses with detailed schedules, materials, and resources. You can organize your courses by years, terms, or topics.
-
-{% include calendar.liquid calendar_id='test@gmail.com' timezone='Asia/Shanghai' %}
-
-{% include courses.liquid %}
+I have been a teaching assistant in the following courses:
+- Norwegian University of Life Science
+  - Autumn 2025: Math121 Calculus
+  - Spring 2025: Math280 Applied Linear Algebra
+  - Spring 2024: Math280 Applied Linear Algebra
+  - Autumn 2023: Math100 Introductory Mathematics
+- University of Bergen
+  - Spring 2023: Mat112 Calculus 2
+  - Autumn 2021: Mat100 Introduction to mathematics
