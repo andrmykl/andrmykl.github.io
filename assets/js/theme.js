@@ -171,6 +171,8 @@ let setSiteStyleOverrides = () => {
   document.head.appendChild(style);
 };
 
+setSiteStyleOverrides();
+
 let cleanCvDateColumn = () => {
   document.querySelectorAll(".cv .date-column .badge").forEach((badge) => {
     badge.textContent = badge.textContent
