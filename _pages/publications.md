@@ -14,7 +14,7 @@ I am currently working on two projects
 
 ### Finite element discretization of Yang--Mills connections on non-trivial bundles.
 
-This project develops finite element methods for Yang-Mills connections on principal bundles. The discretization is based on local connection forms and uses discontinuous finite elements, with compatibility conditions imposed across edges. In the abelian case this leads to a linear saddle-point finite element problem, and the method is tested on the Hopf fibration as a model non-trivial bundle. This is joint work with my supervisors Geir Bogfjellmo and Charles Curry. A preprint will be available very soon.
+This project develops finite element methods for Yang-Mills connections on principal bundles. The discretization is based on local connection forms and uses discontinuous finite elements, with compatibility conditions imposed across edges. In the abelian case this leads to a linear saddle-point finite element problem, and the method is tested on the Hopf fibration as a model non-trivial bundle. This is joint work with my supervisors Geir Bogfjellmo and Charles Curry. A preprint will be available on [arxiv](https://arxiv.org/abs/2608.02108).
 </div>
 <div class="col-md-6" markdown="1">
 
