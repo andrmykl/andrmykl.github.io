@@ -29,7 +29,7 @@ latest_posts:
 
 Welcome to my webpage! 🙏
 
-I am a PhD student in mathematics at the Norwegian University of Life Sciences (NMBU). My research interests are broadly within geometric numerical analysis. Recently, I have been working with Finite Element Exterior Calculus (FEEC) for computing Yang-Mills connections on principal bundles.
+I am a PhD student in mathematics at the Norwegian University of Life Sciences (NMBU). My research interests are broadly within geometric numerical analysis. Currently I am working with two projects. The first one is about using Finite Element Exterior Calculus (FEEC) for computing Yang-Mills connections on principal bundles. The second is to use the Zeitlin's model to solve Euler equations on a subdomain of the sphere.
 
 On this page you can find information about my research, conferences, and related activities.
 
