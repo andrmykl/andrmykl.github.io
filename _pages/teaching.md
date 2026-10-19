@@ -7,6 +7,7 @@ nav_order: 6
 ---
 
 I have been a teaching assistant in the following courses:
+
 - Norwegian University of Life Sciences
   - Autumn 2025: Math121 Calculus
   - Spring 2025: Math280 Applied Linear Algebra
