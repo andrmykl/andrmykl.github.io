@@ -9,7 +9,7 @@ profile:
   image: Profile_picture.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>Office: TF1-125</p>
+    <p>Office: TF1-140</p>
     <p>TF-quarter NMBU</p>
     <p>Ås, Norway</p>
 
