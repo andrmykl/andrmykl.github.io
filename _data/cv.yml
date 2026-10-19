@@ -25,3 +25,22 @@ cv:
         studyType: Bachelor
         start_date: 2017
         end_date: 2020
+
+    Teaching:
+      - label: Autumn 2025
+        details: "Teaching assistant, Math121 Calculus, Norwegian University of Life Sciences"
+
+      - label: Spring 2025
+        details: "Teaching assistant, Math280 Applied Linear Algebra, Norwegian University of Life Sciences"
+
+      - label: Spring 2024
+        details: "Teaching assistant, Math280 Applied Linear Algebra, Norwegian University of Life Sciences"
+
+      - label: Autumn 2023
+        details: "Teaching assistant, Math100 Introductory Mathematics, Norwegian University of Life Sciences"
+
+      - label: Spring 2023
+        details: "Teaching assistant, Mat112 Calculus 2, University of Bergen"
+
+      - label: Autumn 2021
+        details: "Teaching assistant, Mat100 Introduction to mathematics, University of Bergen"
