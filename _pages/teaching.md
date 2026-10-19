@@ -1,14 +1,14 @@
 ---
 layout: page
 permalink: /teaching/
-title: teaching
-description: Materials for courses you taught. Replace this text with your description.
-nav: false
+title: Teaching
+nav: true
 nav_order: 6
 ---
 
 I have been a teaching assistant in the following courses:
-- Norwegian University of Life Science
+
+- Norwegian University of Life Sciences
   - Autumn 2025: Math121 Calculus
   - Spring 2025: Math280 Applied Linear Algebra
   - Spring 2024: Math280 Applied Linear Algebra
